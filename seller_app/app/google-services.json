@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "855441643455",
+    "firebase_url": "https://projectpicle.firebaseio.com",
+    "project_id": "projectpicle",
+    "storage_bucket": "projectpicle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855441643455:android:e6c5340dbec7bae0",
+        "android_client_info": {
+          "package_name": "gridentertainment.net.projectpickle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855441643455-rdrfvjoohch3mhqupjkr52520atdasr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gridentertainment.net.projectpickle",
+            "certificate_hash": "617a7277095517c7a08cf2a9bb2a05aff30590cf"
+          }
+        },
+        {
+          "client_id": "855441643455-nv2cnsp0fja5ediirvmnsii347gu45v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsKq02_LuuDbvYNzPRsIMM2j3KjhTP04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855441643455-nv2cnsp0fja5ediirvmnsii347gu45v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855441643455:android:c8981c81b1258e46",
+        "android_client_info": {
+          "package_name": "gridentertainment.net.projectpickleseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855441643455-15ag9250hc6jb4o7irjnh812pvgq167k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gridentertainment.net.projectpickleseller",
+            "certificate_hash": "617a7277095517c7a08cf2a9bb2a05aff30590cf"
+          }
+        },
+        {
+          "client_id": "855441643455-nv2cnsp0fja5ediirvmnsii347gu45v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsKq02_LuuDbvYNzPRsIMM2j3KjhTP04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855441643455-nv2cnsp0fja5ediirvmnsii347gu45v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
